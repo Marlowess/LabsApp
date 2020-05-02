@@ -1,3 +1,13 @@
 <resources>
+    <!-- Static profile strings -->
     <string name="app_name">LabsApp</string>
+    <string name="user_profile_name">Stefano Brilli</string>
+    <string name="user_profile_nick">Marlowess</string>
+    <string name="user_profile_email">stefanobrilli.dev@gmail.com</string>
+    <string name="user_profile_location">Turin, Italy</string>
+    <string name="user_profile_picture_desription">User\'s personal picture</string>
+
+    <!-- Main menu strings -->
+    <string name="main_menu_title">Edit profile</string>
+
 </resources>
